@@ -1,0 +1,1 @@
+Para funcionar con el kinect viejo (xbox360) se necesita el driver de kinect 1.8, porque el 2.0 en adelante es solo para el de xbox one.
